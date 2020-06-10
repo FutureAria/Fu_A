@@ -1,2 +1,3 @@
 # Fu_A
-javascript
+
+Future_Aria Bot
